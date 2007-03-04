@@ -1,0 +1,7 @@
+# Debugging options for the test.net.diagram plug-in
+
+# Turn on general debugging for the test.net.diagram plug-in
+test.net.diagram/debug=false
+
+# Turn on debugging of visualID processing
+test.net.diagram/debug/visualID=true
